@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import LenisWrapper from "@/components/LenisWrapper";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -24,10 +25,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.15/dist/lenis.css"></link>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <LenisWrapper>
+          {children}
+        </LenisWrapper>
+        
       </body>
     </html>
   );
