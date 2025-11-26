@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "My personal developer portfolio built with Next.js and Tailwind CSS",
+    "tech": ["Next.js", "TypeScript", "Tailwind"],
+    "link": "https://yourwebsite.com"
+  },
+  {
+    "id": 2,
+    "title": "Grocery store management",
+    "description": "Manage grocery store (Inventory, Calculate, POS)",
+    "tech": ["React", "Express.js"],
+    "link": "https://github.com/yourrepo"
+  },
+  {
+    "id": 3,
+    "title": "Car Counting with CCTV footage",
+    "description": "AI system to detect and count cars using YOLOv8",
+    "tech": ["Python", "YOLOv8", "OpenCV"],
+    "link": "https://github.com/yourrepo"
+  }
+]
