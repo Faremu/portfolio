@@ -2,7 +2,7 @@ import Image from "next/image";
 import KKUlogo from "../public/KKU logo.png";
 const About = () =>{
     return(
-        <div>
+        <div id="About">
             <h1 className="text-4xl mt-10 mb-5">About me</h1>
             <p>
             Hi, I&apos;m Kritsanapong Tongjai. Highly motivated Software Developer with a Bachelor&apos;s in Automation, Robotics and Intelligent Systems Engineering. Proficient in Python, JavaScript, and SQL, with hands-on experience developing RESTful APIs, integrating databases, and deploying full-stack web applications. Eager to contribute to high-quality software solutions and continuously improve knowledge in any development environment.

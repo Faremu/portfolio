@@ -11,7 +11,7 @@ type Project = {
 
 const Projects = () =>{
     return(
-        <div>
+        <div id="Projects">
             <h1 className="text-4xl mt-10 mb-5">My Projects</h1>
             <div className="flex space-x-5">
             {projects.map((item:Project,idx)=>{

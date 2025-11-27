@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Computer travel 2018",
+    "description": "Learning Python",
+    "tech": ["Python (Pygame)"]
+  },
+  {
+    "id": 2,
+    "title": "IT Camp for Youth 2018",
+    "description": "Learning Embedded system",
+    "tech": ["C (Arduino IDE)"]
+  },
+  {
+    "id": 3,
+    "title": "Creating programming teaching materials using KidBright 2019",
+    "description": "Learning Kidbright, Block programming",
+    "tech": ["Block programming"]
+  },
+  {
+    "id": 4,
+    "title": "APIs on Shelf Hackathon 2024",
+    "description": "Learning Kidbright, Block programming",
+    "tech": ["Block programming"]
+  }
+]
