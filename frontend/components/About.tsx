@@ -18,10 +18,11 @@ const About = () =>{
                         <br />
                         {/* contact */}
                         <div>
-                            <div className="flex flex-row">
-                                <i className="linkedin-icon"></i>
-                                <i className="github-icon"></i>
-                                <i className="hackerrank-icon"></i>
+                            <div className="flex flex-row space-x-2">
+                                <a href="https://www.linkedin.com/in/kritsanapong-tongjai-a213b0279/"className="hover:cursor-pointer"><i className="linkedin-icon"></i></a>
+                                <a href="https://github.com/Faremu"><i className="github-icon"></i></a>
+                                <a href="https://www.hackerrank.com/profile/kritsanapong_to1"><i className="hackerrank-icon"></i></a>
+
                                 {/* <span>Linkedin</span> */}
                             </div>
                         </div>
