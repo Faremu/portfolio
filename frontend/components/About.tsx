@@ -18,6 +18,7 @@ const About = () =>{
                         <br />
                         {/* contact */}
                         <div>
+                            <h1 className="text-2xl mb-5">Contact</h1>
                             <div className="flex flex-row space-x-2">
                                 <a href="https://www.linkedin.com/in/kritsanapong-tongjai-a213b0279/"className="hover:cursor-pointer"><i className="linkedin-icon"></i></a>
                                 <a href="https://github.com/Faremu"><i className="github-icon"></i></a>
