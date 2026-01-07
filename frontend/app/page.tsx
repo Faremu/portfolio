@@ -1,8 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
 import About from "@/components/About";
-import Certifications from "@/components/Certifications";
-import TrainingActivities from "@/components/TrainingActivities";
+import TrainingCertifications from "@/components/TrainingCertifications";
 import Timeline from "@/components/Timeline";
 export default function Home() {
 
@@ -13,8 +12,7 @@ export default function Home() {
         <About/>
         <Timeline/>
         <Projects/>
-        <TrainingActivities/>
-        <Certifications/>
+        <TrainingCertifications/>
       </main>
   );
 }

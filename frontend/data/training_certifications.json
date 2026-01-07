@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Computer travel 2018",
+    "description": "Learning Python",
+    "tech": ["Python (Pygame)"]
+  },
+  {
+    "id": 2,
+    "title": "IT Camp for Youth 2018",
+    "description": "Learning Embedded system",
+    "tech": ["C (Arduino IDE)"]
+  },
+  {
+    "id": 3,
+    "title": "Creating programming teaching materials using KidBright 2019",
+    "description": "Learning Kidbright, Block programming",
+    "tech": ["Block programming"]
+  },
+  {
+    "id": 4,
+    "title": "APIs on Shelf Hackathon 2024",
+    "description": "Python, LLM, AI related tech such as OCR, TTS",
+    "tech": ["Block programming"]
+  },
+  {
+    "id": 5,
+    "title": "Python (Basic) Certificate",
+    "description": "Using Python",
+    "tech": ["Python"],
+    "link": "https://www.hackerrank.com/certificates/c2ec67700b56"
+  },
+  {
+    "id": 6,
+    "title": "Problem Solving (Basic) Certificate",
+    "description": "Using Python",
+    "tech": ["Python"],
+    "link": "https://www.hackerrank.com/certificates/3b9eecba385f"
+  },
+  {
+    "id": 7,
+    "title": "AWS Academy Graduate - Cloud Foundations - Training Badge",
+    "description": "Using AWS",
+    "tech": ["AWS: EC2, S3, RDB"],
+    "link": "https://www.credly.com/earner/earned/badge/8eb7aa49-fd2f-4052-a078-e7d536cbd68e"
+  },
+  {
+    "id": 8,
+    "title": "Basic Coding and AI Skills ระดับสูง",
+    "description": "Using Python",
+    "tech": ["Python, Algorithm"],
+    "link": ""
+  }
+]
