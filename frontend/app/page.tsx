@@ -3,6 +3,7 @@ import Projects from "@/components/Projects";
 import About from "@/components/About";
 import TrainingCertifications from "@/components/TrainingCertifications";
 import Timeline from "@/components/Timeline";
+import Worlds from "@/components/Worlds";
 export default function Home() {
 
 
@@ -11,6 +12,7 @@ export default function Home() {
         <Navbar/>
         <About/>
         <Timeline/>
+        <Worlds />
         <Projects/>
         <TrainingCertifications/>
       </main>

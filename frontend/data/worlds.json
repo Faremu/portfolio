@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Cybersecurity",
+        "description":"related to cyber security for 3 years"
+    },
+    {
+        "name":"Web development",
+        "description":"related to web developpment for 6 years"
+    },
+    {
+        "name":"Robotics",
+        "description":"related to web developpment for 3 years"
+    },
+    {
+        "name":"AI/ML",
+        "description":"related to web developpment for 3 years"
+    },
+    {
+        "name":"Song and instrument",
+        "description":"related to web developpment for 18 years"
+    },
+    {
+        "name":"Drawing",
+        "description":"related to web developpment for 18 years"
+    }
+]
