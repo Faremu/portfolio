@@ -3,7 +3,7 @@
 import Link from "next/link";
 
 const Navbar = () => {
-    const Nav = ["Home", "About", "Projects", "Training & Activities", "Certifications", "Other Interest"];
+    const Nav = ["Home", "About", "Projects", "Training & Certifications", "Other Interest"];
     return (
         <nav className="flex space-x-4">
         {Nav.map((item, idx) => (

@@ -12,9 +12,9 @@ type TrainingCertifications = {
 
 const TrainingCertifications = () =>{
     return(
-        <div id="Training & Certifications" className="overflow-auto w-[1200px]">
+        <div id="Training & Certifications" className=" w-[1350px]">
             <h1 className="text-4xl mt-10 mb-5">Training & Certifications</h1>
-            <div className="flex space-x-5">
+            <div className="flex space-x-5 overflow-hidden" >
             {training_activities.map((item:TrainingCertifications,idx)=>{
                 return (
                     <div key={idx} className="flex flex-col space-y-3 w-80 bg-slate-200 rounded-xl p-5">
