@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Ubuntu } from "next/font/google";
-import LenisWrapper from "@/components/LenisWrapper";
+
 import "./globals.css";
+import ClientLayout from "./ClientLayout";
 
 const ubuntu = Ubuntu({
   subsets: ["latin"],
@@ -25,10 +26,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.15/dist/lenis.css"></link>
       </head>
       <body className={`${ubuntu.variable} antialiased`}>
-        <LenisWrapper>
-          {children}
-        </LenisWrapper>
-        
+        <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
   );

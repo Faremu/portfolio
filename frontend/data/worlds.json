@@ -1,26 +1,32 @@
 [
     {
         "name":"Cybersecurity",
-        "description":"related to cyber security for 3 years"
+        "description":"related to cyber security for 3 years",
+        "image": "/worlds/cyber.png"
     },
     {
         "name":"Web development",
-        "description":"related to web developpment for 6 years"
+        "description":"related to web developpment for 6 years",
+        "image": "/worlds/web.png"
     },
     {
         "name":"Robotics",
-        "description":"related to web developpment for 3 years"
+        "description":"related to web developpment for 3 years",
+        "image": "/worlds/robot.png"
     },
     {
         "name":"AI/ML",
-        "description":"related to web developpment for 3 years"
+        "description":"related to web developpment for 3 years",
+        "image": "/worlds/ai.png"
     },
     {
         "name":"Song and instrument",
-        "description":"related to web developpment for 18 years"
+        "description":"related to web developpment for 18 years",
+        "image": "/worlds/music.png"
     },
     {
         "name":"Drawing",
-        "description":"related to web developpment for 18 years"
+        "description":"related to web developpment for 18 years",
+        "image": "/worlds/draw.png"
     }
 ]
