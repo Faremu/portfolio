@@ -57,9 +57,9 @@ export default function Worlds() {
     <div className="h-screen bg-black text-white">
       <h1 className="text-4xl p-10">My Worlds</h1>
 
-      <div className="grid grid-cols-2 gap-12 px-10">
+      <div className="grid grid-cols-5 gap-12 px-10">
         {myWorlds.map((world, idx) => (
-          <div key={idx} className="h-[320px]">
+          <div key={idx} className="h-80">
             <Canvas camera={{ position: [0, 0, 3] }}>
               {/* LIGHTS */}
               <ambientLight intensity={0.4} />
