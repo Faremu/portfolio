@@ -11,8 +11,8 @@ type Project = {
 
 const Projects = () =>{
     return(
-        <div id="Projects">
-            <h1 className="text-4xl mt-10 mb-5">My Projects</h1>
+        <div id="Projects" className="rounded-4xl mt-10 p-10 bg-white">
+            <h1 className="text-4xl mb-5">My Projects</h1>
             <div className="flex space-x-5">
             {projects.map((item:Project,idx)=>{
                 return (

@@ -3,7 +3,7 @@ import KKUlogo from "../public/KKU logo.png";
 
 const About = () =>{
     return(
-        <div id="About" className="shadow-md rounded-4xl w-full p-10 ">
+        <div id="About" className="shadow-md rounded-4xl w-full p-10 bg-white">
             <h1 className="text-4xl mt-10 mb-5">About me</h1>
             <div className="space-x-5 flex flex-row">
                 <div className="w-[20%]">
