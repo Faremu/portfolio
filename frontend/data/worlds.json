@@ -1,32 +1,32 @@
 [
     {
         "name":"Cybersecurity",
-        "description":"related to cyber security for 3 years",
+        "description":"Have an experience in cyber security for 3 years",
         "image": "/worlds/cyber.png"
     },
     {
         "name":"Web development",
-        "description":"related to web developpment for 6 years",
+        "description":"Have an experience in web development for 6 years",
         "image": "/worlds/web.png"
     },
     {
         "name":"Robotics",
-        "description":"related to web developpment for 3 years",
+        "description":"Have an experience in Robotics for 3 years",
         "image": "/worlds/robot.png"
     },
     {
         "name":"AI/ML",
-        "description":"related to web developpment for 3 years",
-        "image": "/worlds/ai.png"
+        "description":"Have an experience in AI/ML for 3 years",
+        "image": "/worlds/ai_texture.png"
     },
     {
         "name":"Song and instrument",
-        "description":"related to web developpment for 18 years",
+        "description":"Have an experience in Singing and Instrumentation for 18 years",
         "image": "/worlds/music.png"
     },
     {
         "name":"Drawing",
-        "description":"related to web developpment for 18 years",
+        "description":"Have an experience in Drawing for 18 years",
         "image": "/worlds/draw.png"
     }
 ]
