@@ -4,6 +4,7 @@ import training_activities from "@/data/training_certifications.json"
 type TrainingCertifications = {
     id:number;
     title:string;
+    image:string;
     description:string;
     tech:string[];
     link?:string;
@@ -14,12 +15,12 @@ const TrainingCertifications = () =>{
     return(
         <div id="Training & Certifications" className="rounded-4xl mt-10 p-10 w-[1350px] bg-white">
             <h1 className="text-4xl mb-5">Training & Certifications</h1>
-            <div className="flex space-x-5 overflow-hidden" >
+            <div className="flex space-x-5 overflow-auto" >
             {training_activities.map((item:TrainingCertifications,idx)=>{
                 return (
                     <div key={idx} className="flex flex-col space-y-3 w-80 bg-slate-200 rounded-xl p-5">
                         <div className="w-70 h-50 relative">
-                            <Image className="object-contain" alt="" src={`/${item.title}.png`} fill/>
+                            <Image className="object-contain" alt="" src={item.image} fill/>
                         </div>
                         <b>{item.title}</b>
                         <div className="flex items-center space-x-5">

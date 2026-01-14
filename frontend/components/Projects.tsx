@@ -18,7 +18,7 @@ const Projects = () =>{
                 return (
                     <div key={idx} className="flex flex-col space-y-3 w-80 bg-slate-200 rounded-xl p-5">
                         <div className="w-70 h-50 relative">
-                            <Image className="object-cover" alt="" src={`/${123}.png`} fill/>
+                            <Image className="object-cover" alt="" src={``} fill/>
                         </div>
                         <b>{item.title}</b>
                         <div className="flex items-center space-x-5">

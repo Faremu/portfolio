@@ -2,30 +2,35 @@
   {
     "id": 1,
     "title": "Computer travel 2018",
+    "image": "/certifications/Computer travel 2018.png",
     "description": "Learning Python",
     "tech": ["Python (Pygame)"]
   },
   {
     "id": 2,
     "title": "IT Camp for Youth 2018",
+    "image": "/certifications/IT Camp for Youth 2018.png",
     "description": "Learning Embedded system",
     "tech": ["C (Arduino IDE)"]
   },
   {
     "id": 3,
     "title": "Creating programming teaching materials using KidBright 2019",
+    "image": "/certifications/Creating programming teaching materials using KidBright 2019.png",
     "description": "Learning Kidbright, Block programming",
     "tech": ["Block programming"]
   },
   {
     "id": 4,
     "title": "APIs on Shelf Hackathon 2024",
+    "image": "/certifications/APIs on Shelf Hackathon 2024.png",
     "description": "Python, LLM, AI related tech such as OCR, TTS",
     "tech": ["Block programming"]
   },
   {
     "id": 5,
     "title": "Python (Basic) Certificate",
+    "image": "/certifications/Python (Basic) Certificate.png",
     "description": "Using Python",
     "tech": ["Python"],
     "link": "https://www.hackerrank.com/certificates/c2ec67700b56"
@@ -33,6 +38,7 @@
   {
     "id": 6,
     "title": "Problem Solving (Basic) Certificate",
+    "image": "/certifications/Problem Solving (Basic) Certificate.png",
     "description": "Using Python",
     "tech": ["Python"],
     "link": "https://www.hackerrank.com/certificates/3b9eecba385f"
@@ -40,6 +46,7 @@
   {
     "id": 7,
     "title": "AWS Academy Graduate - Cloud Foundations - Training Badge",
+    "image": "/certifications/AWS Academy Graduate - Cloud Foundations - Training Badge.png",
     "description": "Using AWS",
     "tech": ["AWS: EC2, S3, RDB"],
     "link": "https://www.credly.com/earner/earned/badge/8eb7aa49-fd2f-4052-a078-e7d536cbd68e"
@@ -47,8 +54,34 @@
   {
     "id": 8,
     "title": "Basic Coding and AI Skills ระดับสูง",
+    "image": "/certifications/Basic Coding and AI Skills ระดับสูง.png",
     "description": "Using Python",
     "tech": ["Python, Algorithm"],
     "link": ""
+  },
+  {
+    "id": 9,
+    "title": "Thailand Cyber Top Talent 2023",
+    "image": "/certifications/Thailand Cyber Top Talent 2023.png",
+    "description": "First CTF",
+    "tech": ["Python, Algorithm"],
+    "link": ""
+  },
+  {
+    "id": 10,
+    "title": "Thailand Cyber Top Talent 2024",
+    "image": "/certifications/Thailand Cyber Top Talent 2024.png",
+    "description": "CTF",
+    "tech": ["Python, Algorithm"],
+    "link": ""
+  },
+  {
+    "id": 10,
+    "title": "Archa CTF 2026",
+    "image": "/certifications/Archa CTF 2026.png",
+    "description": "CTF",
+    "tech": ["Python, Algorithm"],
+    "link": ""
   }
+  
 ]
