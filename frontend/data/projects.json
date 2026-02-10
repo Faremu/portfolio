@@ -19,5 +19,12 @@
     "description": "AI system to detect and count cars using YOLOv8",
     "tech": ["Python", "YOLOv8", "OpenCV"],
     "link": "https://github.com/yourrepo"
+  },
+  {
+    "id": 4,
+    "title": "PID Ball and Beam Machine Learning",
+    "description": "Build a ML website",
+    "tech": ["Python", "ScikitLearn", "Supervised Learning"],
+    "link": "https://github.com/yourrepo"
   }
 ]
