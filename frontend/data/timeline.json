@@ -4,6 +4,30 @@
         "year":2013,
         "title": "Start",
         "description": "Interested in computer"
+    },
+    {
+        "id":2,
+        "year":2013,
+        "title": "First program with VB (Phising)",
+        "description": "Hackermaster born"
+    },
+    {
+        "id":3,
+        "year":2013,
+        "title": "Cheat Many game",
+        "description": "SB gamehacker, Lucky patcher"
+    },
+    {
+        "id":4,
+        "year":2015,
+        "title": "First programming language (C)",
+        "description": "Teacher Thongpoon"
+    },
+    {
+        "id":5,
+        "year":2015,
+        "title": "Second programming language (Python)",
+        "description": "Computer travel from UBU"
     }
 
 ]
